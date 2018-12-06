@@ -1,11 +1,8 @@
 {
-  "name": "school",
+  "name": "learnyou",
   "version": "1.0.0",
   "description": "NodeSchool npm package to install all workshops",
   "main": "index.js",
-  "scripts": {
-    "install": "chmod +x install-workshops.sh && ./install-workshops.sh"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fharper/npm-school.git"
