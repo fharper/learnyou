@@ -1,5 +1,5 @@
 # npm-learnyou
-npm package to install all NodeSchool workshoppers except [git-it](https://github.com/jlord/git-it-electron), because why not? We could easily add more courses in the future.
+npm package to install all NodeSchool workshoppers (except [git-it](https://github.com/jlord/git-it-electron) which is an electron app and perfschool which requires node.js v0.10.x), because why not? We could easily add more courses in the future.
 
 ## Workshoppers
 
@@ -70,8 +70,6 @@ npm package to install all NodeSchool workshoppers except [git-it](https://githu
 [learnyoureact](https://github.com/tako-black/learnyoureact): Let's learn React.js and server side rendering.
 
 [Tower of babel](https://github.com/yosuke-furukawa/tower-of-babel): Show you through a series of exercises that introduce you to ES6 features.
-
-[perfschool](https://github.com/bevacqua/perfschool): Find your way through the web performance optimization maze.
 
 [learnyoumongo](https://github.com/evanlucas/learnyoumongo): Getting started with MongoDB and Node.js.
 
