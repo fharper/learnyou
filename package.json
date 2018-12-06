@@ -1,0 +1,27 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "NodeSchool npm package to install all workshops",
+  "main": "index.js",
+  "scripts": {
+    "install": "chmod +x install-workshops.sh && ./install-workshops.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fharper/npm-school.git"
+  },
+  "keywords": [
+    "NodeSchool",
+    "workshop",
+    "oss",
+    "learning",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Frédéric Harper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fharper/npm-school/issues"
+  },
+  "homepage": "https://github.com/fharper/npm-school#readme"
+}
