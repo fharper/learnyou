@@ -1,5 +1,5 @@
-# npm-school
-NodeSchool npm package to install all workshoppers except [git-it](https://github.com/jlord/git-it-electron), because why not?
+# npm-learnyou
+npm package to install all NodeSchool workshoppers except [git-it](https://github.com/jlord/git-it-electron), because why not? We could easily add more courses in the future.
 
 ## Workshoppers
 
