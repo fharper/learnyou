@@ -68,7 +68,7 @@
     "bacon-love": "latest",
     "js-best-practices": "latest",
     "innersourceadventure": "latest",
-    "scope-chains-closures": "latest",
+    "@workshoppers/scope-chains-closures": "latest",
     "learnuv": "latest"
   }
 }
